@@ -1,0 +1,1 @@
+export const GET_SIMPLETRADE = 'GET_SIMPLETRADE';

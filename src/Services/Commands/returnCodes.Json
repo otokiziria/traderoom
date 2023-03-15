@@ -1,0 +1,22 @@
+{
+    "MT_RET_OK":"Successful completion.",
+    "MT_RET_OK_NONE":"Successful completion with no information returned.",
+    "MT_RET_ERROR":"Common error.",
+    "MT_RET_ERR_PARAMS":"Invalid parameters.",
+    "MT_RET_ERR_DATA":"Invalid information.",
+    "MT_RET_ERR_DISK":"Hard disk error.",
+    "MT_RET_ERR_MEM":"Memory error.",
+    "MT_RET_ERR_NETWORK":"Network error.",
+    "MT_RET_ERR_PERMISSIONS":"Not enough permissions to perform the operation.",
+    "MT_RET_ERR_TIMEOUT":"Timeout expired.",
+    "MT_RET_ERR_CONNECTION":"No connection.",
+    "MT_RET_ERR_NOSERVICE":"Service is not available.",
+    "MT_RET_ERR_FREQUENT":"Too frequent requests.",
+    "MT_RET_ERR_NOTFOUND":"Not found.",
+    "MT_RET_ERR_PARTIAL":"Partial error.",
+    "MT_RET_ERR_SHUTDOWN":"Server shutdown in progress.",
+    "MT_RET_ERR_CANCEL":"The operation has been canceled.",
+    "MT_RET_ERR_DUPLICATE":"Duplicate information."
+}
+
+

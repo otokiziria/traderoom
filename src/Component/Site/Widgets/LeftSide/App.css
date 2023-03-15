@@ -1,0 +1,28 @@
+.leftsiteWidgetheaderFilter{
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    font-size: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.leftsiteWidgetheaderIn{
+    display: flex;
+}
+.leftsiteWidgetHeader .svg-inline--fa {
+    color: #999;
+    margin-right: 0px;
+}
+.leftsiteWidgetsearch {
+    position: relative;
+    width: 96%;
+    margin: auto;
+}
+.leftsiteWidgetsearch .fa-search-dollar {
+    position: absolute;
+    top: 4px;
+    right: 5px;
+    font-size: 30px;
+}
